@@ -41,7 +41,7 @@ O sistema deverá pesquisar perguntas
     + O usuário preenche o email e senha e clica no botão login
     + O sistema informa que o email e senha não coincidem
     + O usuário corrige suas informações de login e envia novamente o formulário
-    + O Sistema valida as informações e redireciona o usuário para a home
+    + O Sistema valida as informações e redireciona o usuário para o Feed
 
 ### CDU02 - Perguntar
   - Pré-requisitos: o usuário precisa estar autenticado no sistema
