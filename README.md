@@ -74,3 +74,19 @@ O sistema deverá pesquisar perguntas
     + O usuário seleciona uma pergunta, clica no botão "Entendi!" em uma resposta
     + O Sistema informa que o usuário já votou naquela resposta
     
+### CDU02 - Pesquisar
+  - Pré-requisitos: nenhum
+  - Fluxo principal
+    + O usuário preenche a barra de pesquisa e clica em pesquisar
+    + O Sistema mostra todas as perguntas que possuem o texto buscado
+  - Fluxo alternativo
+    + O usuário preenche a barra de pesquisa e clica em pesquisar
+    + O Sistema informa que nao perguntar que coincidem com a busca
+    
+### CDU02 - Feed
+  - Pré-requisitos: nenhum
+  - Fluxo principal
+    + O sistema apresenta a lista de perguntas ordenada da mais recente para a mais antiga
+    + O usuário clica em uma pergunta e o sistema dereciona para uma tela que exibe as respostas
+    
+    
